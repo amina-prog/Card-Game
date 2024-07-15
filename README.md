@@ -3,3 +3,4 @@
 
 Black Jack Card Game!
 This is a card game worked on and simulated using Java programming language. 
+The game is played by two players, one the user and the dealer being the computer itself. The cards get set in a completely random way and the one with the minimun sum is considered to be the winner.
